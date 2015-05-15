@@ -1,6 +1,6 @@
 {
   "name": "bcrypt-helper",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Bcrypt module helper",
   "main": "index.js",
   "directories": {
