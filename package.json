@@ -1,18 +1,26 @@
 {
   "name": "bcrypt-helper",
   "version": "0.1.1",
-  "description": "",
+  "description": "Bcrypt module helper",
   "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "asynct": "^1.1.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "asynct tests/"
   },
   "repository": {
     "type": "git",
-    "url": "git@git.etineo.fr:etineo/bcrypt-helper.git"
+    "url": "git+https://github.com/etineosas/bcrypt-helper.git"
   },
   "author": "Cyril CHAPON",
-  "license": "ISC",
-  "dependencies": {
-    "asynct": "^1.1.0"
-  }
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/etineosas/bcrypt-helper/issues"
+  },
+  "homepage": "https://github.com/etineosas/bcrypt-helper#readme"
 }
