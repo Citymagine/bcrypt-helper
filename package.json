@@ -1,0 +1,18 @@
+{
+  "name": "bcrypt-helper",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "asynct tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.etineo.fr:etineo/bcrypt-helper.git"
+  },
+  "author": "Cyril CHAPON",
+  "license": "ISC",
+  "dependencies": {
+    "asynct": "^1.1.0"
+  }
+}
