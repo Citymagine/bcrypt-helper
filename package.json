@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/etineosas/bcrypt-helper.git"
   },
-  "author": "Cyril CHAPON",
+  "author": "Etineo",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/etineosas/bcrypt-helper/issues"
