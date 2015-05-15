@@ -6,10 +6,10 @@
   "directories": {
     "test": "tests"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "asynct": "^1.1.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "asynct tests/"
   },
