@@ -1,4 +1,4 @@
-var pattern = /^\$2a\$\d+\$.+$/;
+var pattern = /^\$2[aby]\$\d+\$.+$/;
 
 module.exports = {
   isHash: function(needle) {
