@@ -1,5 +1,5 @@
 {
-  "name": "bcrypt-helper",
+  "name": "is-bcrypt",
   "version": "0.2.1",
   "description": "Bcrypt module helper",
   "main": "index.js",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/etineosas/bcrypt-helper.git"
+    "url": "git@github.com:Citymagine/is-bcrypt.git"
   },
-  "author": "Etineo",
+  "author": "Citymagine",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/etineosas/bcrypt-helper/issues"
+    "url": "https://github.com/Citymagine/is-bcrypt/pulls"
   },
-  "homepage": "https://github.com/etineosas/bcrypt-helper#readme"
+  "homepage": "http://www.citymagine.com"
 }
