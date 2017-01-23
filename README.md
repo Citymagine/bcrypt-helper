@@ -1,1 +1,1 @@
-# bcrypt-helper
+# is-bcrypt
